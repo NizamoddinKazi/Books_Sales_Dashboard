@@ -44,5 +44,5 @@ User Interface Optimization in Excel
 
 🎥 Project Demo
 Watch the full demo here:
-👉 []
+👉 [https://github.com/NizamoddinKazi/Books_Sales_Dashboard/blob/daed4b50939fa4bcab6ac299423e62b3f35a2f3c/README.md]
 Or embed the .mp4 file if GitHub supports local hosting.
